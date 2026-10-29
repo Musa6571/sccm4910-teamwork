@@ -7,7 +7,7 @@ Review the change with a partner before merging it.
 
 
 def banner():
-    print("=== SCCM4910 team greetings ===")
+    print("Hello from Musa6571")
 
 
 if __name__ == "__main__":
